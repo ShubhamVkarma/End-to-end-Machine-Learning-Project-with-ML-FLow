@@ -1,0 +1,15 @@
+pandas 
+mlflow
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .  # to pick up and run setup.py file, it will install all the folders as packages on system so that we can access all of them in the project
